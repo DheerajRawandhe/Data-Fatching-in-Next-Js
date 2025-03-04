@@ -19,14 +19,14 @@ I explored different data fetching techniques, including SSR (Server-Side Render
 
 # 🛠 Installation & Setup  
 
-# 1️⃣ Clone the Repository -
+# 1️⃣ Clone the Repository :-
 git clone https://github.com/DheerajRawandhe/Data-Fatching-in-Next-Js.git
 cd Data-Fatching-in-Next-Js
 
-# 2️⃣ Install Dependencies -
+# 2️⃣ Install Dependencies :-
 npm install
 
-# 3️⃣ Run the Development Server -
+# 3️⃣ Run the Development Server :-
 npm run dev 
 
 Next.js provides powerful data-fetching strategies to optimize performance and user experience.

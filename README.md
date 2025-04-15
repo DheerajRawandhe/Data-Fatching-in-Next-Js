@@ -12,10 +12,10 @@ I explored different data fetching techniques, including SSR (Server-Side Render
  ISR combines the benefits of SSG and SSR. It allows static pages to be updated without rebuilding the entire app, improving efficiency. By using revalidate inside getStaticProps(), I enabled automatic content updates.# Next.js Data Fetching (SSR, SSG, ISR)  
 
 ## Features  
-✅ Server-Side Rendering (SSR) using getServerSideProps() 
+✅ Server-Side Rendering (SSR) using getServerSideProps()
 ✅ Static Site Generation (SSG) using getStaticProps()
 ✅ Incremental Static Regeneration (ISR) using revalidate
-✅ Optimized performance with Next.js🚀 
+✅ Optimized performance with Next.js.
 
 # 🛠 Installation & Setup  
 

@@ -30,4 +30,4 @@ npm install
 npm run dev 
 
 Next.js provides powerful data-fetching strategies to optimize performance and user experience.
-I improved my ability to build high-performance, SEO-friendly web applications with Next.js
+I improved my ability to build high-performance, SEO-friendly web applications with Next.js.

@@ -4,7 +4,7 @@ I explored different data fetching techniques, including SSR (Server-Side Render
 
 
 ### (i) SSR (Server-Side Rendering) :-
- In SSR, data is fetched at request time on the server for every page request. This ensures up-to-date content but can slightly increase load time. I used getServerSideProps() to implement SSR in my Next.js projects.
+ In SSR, data is fetched at request time on the server for every page request. This ensures up-to-date content but can slightly increase load time. I used getServerSideProps() to implement SSR in my Next.js projects
 
 ### (ii)  SSG (Static Site Generation) :-
  SSG pre-renders pages at build time, making them super fast. This method is ideal for pages with static data that don’t change frequently. I used getStaticProps() to generate static pages for better performance.

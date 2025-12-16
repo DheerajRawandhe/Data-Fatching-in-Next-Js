@@ -27,7 +27,7 @@ cd Data-Fatching-in-Next-Js
 ### Install Dependencies :-
 npm install
 
-### 3️⃣ Run the Development Server :-
+### Run the Development Server :-
 npm run dev 
 
 Next.js provides powerful data-fetching strategies to optimize performance and user experience.

@@ -3,7 +3,7 @@
 I explored different data fetching techniques, including SSR (Server-Side Rendering), SSG (Static Site Generation), and ISR (Incremental Static Regeneration).
 
 
-### (i) SSR (Server-Side Rendering) :-
+### (i) SSR (Server-Side Rendering) :
  In SSR, data is fetched at request time on the server for every page request. This ensures up-to-date content but can slightly increase load time. I used getServerSideProps() to implement SSR in my Next.js projects.
 
 ### (ii)  SSG (Static Site Generation) :

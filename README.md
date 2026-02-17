@@ -9,7 +9,7 @@ I explored different data fetching techniques, including SSR (Server-Side Render
 ### (ii)  SSG (Static Site Generation) :-
  SSG pre-renders pages at build time, making them super fast. This method is ideal for pages with static data that don’t change frequently. I used getStaticProps() to generate static pages for better performance.
 
-### (iii)  ISR (Incremental Static Regeneration) :
+### (iii)  ISR (Incremental Static Regeneration) :-
  ISR combines the benefits of SSG and SSR. It allows static pages to be updated without rebuilding the entire app, improving efficiency. By using revalidate inside getStaticProps(), I enabled automatic content updates.# Next.js Data Fetching (SSR, SSG, ISR)  
 
 ## Features  

@@ -20,7 +20,7 @@ I explored different data fetching techniques, including SSR (Server-Side Render
 
 ## Installation & Setup
 
-### Clone the Repository :
+### Clone the Repository :-
 git clone https://github.com/DheerajRawandhe/Data-Fatching-in-Next-Js.git
 cd Data-Fatching-in-Next-Js
 

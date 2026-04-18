@@ -24,7 +24,7 @@ I explored different data fetching techniques, including SSR (Server-Side Render
 git clone https://github.com/DheerajRawandhe/Data-Fatching-in-Next-Js.git
 cd Data-Fatching-in-Next-Js
 
-### Install Dependencies :-
+### Install Dependencies :
 npm install
 
 ### Run the Development Server :-

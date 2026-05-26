@@ -18,7 +18,7 @@ I explored different data fetching techniques, including SSR (Server-Side Render
 ✅ Incremental Static Regeneration (ISR) using revalidate
 ✅ Optimized performance with Next.js.
 
-## Installation & Setup :-
+## Installation & Setup :
 
 ### Clone the Repository :-
 git clone https://github.com/DheerajRawandhe/Data-Fatching-in-Next-Js.git
